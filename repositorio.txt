@@ -1,0 +1,8 @@
+repositorio del proyecto sistema citas medicas
+
+proyecto desarrollado en html, php y mysql
+para la evidencia GA7-220501096-AA3-EV01.
+
+Enlace del repositorio:
+https://github.com/juanher12/citas_medicas
+
